@@ -4,13 +4,13 @@ void adicao (){
 	double operador1, operador2;
 	double resultado;
 	
-	printf ("Digite o primeiro operador: \n");
+	printf ("Digite o primeiro operadooooooooor: \n");
 	scanf ("%lf", &operador1);
 	printf("Digitre o segundo operador: \n");
 	scanf ("%lf", &operador2);
 	
 	resultado = operador1 + operador2;
-	printf("O resultado da soma é: %lf\n", resultado);
+	printf("O resultado da soma Ã©: %lf\n", resultado);
 }
 
 void subtracao(){
