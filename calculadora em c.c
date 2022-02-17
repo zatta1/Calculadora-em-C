@@ -4,7 +4,7 @@ void adicao (){
 	double operador1, operador2;
 	double resultado;
 	
-	printf ("Digite o primeiro operadooooooooor: \n");
+	printf ("Digite o primeiro operador: \n");
 	scanf ("%lf", &operador1);
 	printf("Digitre o segundo operador: \n");
 	scanf ("%lf", &operador2);
